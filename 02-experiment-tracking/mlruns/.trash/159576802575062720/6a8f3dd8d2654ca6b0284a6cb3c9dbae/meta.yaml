@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/159576802575062720/6a8f3dd8d2654ca6b0284a6cb3c9dbae/artifacts
+deleted_time: 1685813484712
+end_time: 1685813461890
+entry_point_name: ''
+experiment_id: '159576802575062720'
+lifecycle_stage: deleted
+run_id: 6a8f3dd8d2654ca6b0284a6cb3c9dbae
+run_name: spiffy-tern-19
+run_uuid: 6a8f3dd8d2654ca6b0284a6cb3c9dbae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685813460934
+status: 4
+tags: []
+user_id: daeti

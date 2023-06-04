@@ -1,0 +1,16 @@
+artifact_uri: file:///home/daeti/MLOps/02-experiment-tracking/mlruns/0/fa4c8f8362e44a149f6b34df696be8a8/artifacts
+deleted_time: 1685813422802
+end_time: 1685812980854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fa4c8f8362e44a149f6b34df696be8a8
+run_name: bemused-seal-374
+run_uuid: fa4c8f8362e44a149f6b34df696be8a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685812972321
+status: 3
+tags: []
+user_id: daeti

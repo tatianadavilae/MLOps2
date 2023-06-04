@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/dcd7674515ee46a2a75486d8383f2a20/artifacts
+deleted_time: 1685816549018
+end_time: 1685816078449
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: dcd7674515ee46a2a75486d8383f2a20
+run_name: skillful-lark-607
+run_uuid: dcd7674515ee46a2a75486d8383f2a20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685816075495
+status: 3
+tags: []
+user_id: daeti

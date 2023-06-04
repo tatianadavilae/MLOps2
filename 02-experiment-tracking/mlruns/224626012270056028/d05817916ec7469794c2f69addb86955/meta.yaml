@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/d05817916ec7469794c2f69addb86955/artifacts
+end_time: 1685816737590
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: active
+run_id: d05817916ec7469794c2f69addb86955
+run_name: stylish-ape-55
+run_uuid: d05817916ec7469794c2f69addb86955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685816735838
+status: 3
+tags: []
+user_id: daeti

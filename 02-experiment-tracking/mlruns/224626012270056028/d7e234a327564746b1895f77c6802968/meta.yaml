@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/d7e234a327564746b1895f77c6802968/artifacts
+deleted_time: 1685814712763
+end_time: 1685814453288
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: d7e234a327564746b1895f77c6802968
+run_name: colorful-mare-134
+run_uuid: d7e234a327564746b1895f77c6802968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685814450573
+status: 3
+tags: []
+user_id: daeti

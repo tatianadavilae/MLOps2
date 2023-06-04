@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/b01c6abbe6e74781b5ee0577cdb54a7a/artifacts
+deleted_time: 1685814816655
+end_time: 1685814726327
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: b01c6abbe6e74781b5ee0577cdb54a7a
+run_name: whimsical-shrew-987
+run_uuid: b01c6abbe6e74781b5ee0577cdb54a7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685814724206
+status: 3
+tags: []
+user_id: daeti

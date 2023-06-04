@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/21fd858dca3d4e3d9847722c8d715be3/artifacts
+deleted_time: 1685814816674
+end_time: 1685814730098
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: 21fd858dca3d4e3d9847722c8d715be3
+run_name: debonair-midge-73
+run_uuid: 21fd858dca3d4e3d9847722c8d715be3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685814728393
+status: 3
+tags: []
+user_id: daeti

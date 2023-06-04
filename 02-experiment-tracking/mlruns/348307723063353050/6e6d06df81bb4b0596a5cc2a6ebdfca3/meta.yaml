@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/348307723063353050/6e6d06df81bb4b0596a5cc2a6ebdfca3/artifacts
+end_time: 1685814321467
+entry_point_name: ''
+experiment_id: '348307723063353050'
+lifecycle_stage: active
+run_id: 6e6d06df81bb4b0596a5cc2a6ebdfca3
+run_name: likeable-fish-152
+run_uuid: 6e6d06df81bb4b0596a5cc2a6ebdfca3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685814321344
+status: 3
+tags: []
+user_id: daeti

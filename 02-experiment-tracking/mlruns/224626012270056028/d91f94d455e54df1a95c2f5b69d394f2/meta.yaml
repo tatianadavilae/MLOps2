@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/d91f94d455e54df1a95c2f5b69d394f2/artifacts
+deleted_time: 1685816549038
+end_time: 1685816083057
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: d91f94d455e54df1a95c2f5b69d394f2
+run_name: enchanting-ox-708
+run_uuid: d91f94d455e54df1a95c2f5b69d394f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685816081025
+status: 3
+tags: []
+user_id: daeti

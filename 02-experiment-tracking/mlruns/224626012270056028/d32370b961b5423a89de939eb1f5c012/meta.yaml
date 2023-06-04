@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/d32370b961b5423a89de939eb1f5c012/artifacts
+deleted_time: 1685816549052
+end_time: 1685816249579
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: d32370b961b5423a89de939eb1f5c012
+run_name: mercurial-donkey-926
+run_uuid: d32370b961b5423a89de939eb1f5c012
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685816247840
+status: 3
+tags: []
+user_id: daeti

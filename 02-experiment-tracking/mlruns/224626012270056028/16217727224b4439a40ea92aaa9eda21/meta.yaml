@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/16217727224b4439a40ea92aaa9eda21/artifacts
+deleted_time: 1685814816668
+end_time: 1685814728385
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: 16217727224b4439a40ea92aaa9eda21
+run_name: angry-flea-876
+run_uuid: 16217727224b4439a40ea92aaa9eda21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685814726335
+status: 3
+tags: []
+user_id: daeti

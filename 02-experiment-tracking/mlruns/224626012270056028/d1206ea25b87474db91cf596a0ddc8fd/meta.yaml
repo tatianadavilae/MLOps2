@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/d1206ea25b87474db91cf596a0ddc8fd/artifacts
+deleted_time: 1685816549009
+end_time: 1685816241775
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: d1206ea25b87474db91cf596a0ddc8fd
+run_name: exultant-stork-693
+run_uuid: d1206ea25b87474db91cf596a0ddc8fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685816239088
+status: 3
+tags: []
+user_id: daeti

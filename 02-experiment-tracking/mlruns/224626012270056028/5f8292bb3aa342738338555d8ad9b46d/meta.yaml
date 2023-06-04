@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/5f8292bb3aa342738338555d8ad9b46d/artifacts
+deleted_time: 1685814712784
+end_time: 1685814414938
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: 5f8292bb3aa342738338555d8ad9b46d
+run_name: melodic-fawn-398
+run_uuid: 5f8292bb3aa342738338555d8ad9b46d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685814412942
+status: 3
+tags: []
+user_id: daeti

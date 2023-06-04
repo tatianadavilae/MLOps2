@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/02fa4967969b488cb5f90912e5314de0/artifacts
+deleted_time: 1685814712789
+end_time: 1685814459240
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: 02fa4967969b488cb5f90912e5314de0
+run_name: beautiful-moth-605
+run_uuid: 02fa4967969b488cb5f90912e5314de0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685814457480
+status: 3
+tags: []
+user_id: daeti

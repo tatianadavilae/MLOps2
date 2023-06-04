@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/348307723063353050/166e4ea692e1421bbd029a851821b9f1/artifacts
+end_time: 1685814319905
+entry_point_name: ''
+experiment_id: '348307723063353050'
+lifecycle_stage: active
+run_id: 166e4ea692e1421bbd029a851821b9f1
+run_name: caring-cow-727
+run_uuid: 166e4ea692e1421bbd029a851821b9f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685814319527
+status: 3
+tags: []
+user_id: daeti

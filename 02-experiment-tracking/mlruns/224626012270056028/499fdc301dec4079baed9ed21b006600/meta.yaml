@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/499fdc301dec4079baed9ed21b006600/artifacts
+deleted_time: 1685816549032
+end_time: 1685816245995
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: 499fdc301dec4079baed9ed21b006600
+run_name: adorable-tern-385
+run_uuid: 499fdc301dec4079baed9ed21b006600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685816243982
+status: 3
+tags: []
+user_id: daeti

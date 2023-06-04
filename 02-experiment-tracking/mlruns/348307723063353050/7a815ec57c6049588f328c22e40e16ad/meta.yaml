@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/348307723063353050/7a815ec57c6049588f328c22e40e16ad/artifacts
+end_time: 1685814320804
+entry_point_name: ''
+experiment_id: '348307723063353050'
+lifecycle_stage: active
+run_id: 7a815ec57c6049588f328c22e40e16ad
+run_name: luminous-lark-322
+run_uuid: 7a815ec57c6049588f328c22e40e16ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685814320131
+status: 3
+tags: []
+user_id: daeti

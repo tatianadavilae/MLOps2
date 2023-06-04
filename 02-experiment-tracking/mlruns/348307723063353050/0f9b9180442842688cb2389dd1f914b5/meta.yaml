@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/348307723063353050/0f9b9180442842688cb2389dd1f914b5/artifacts
+deleted_time: 1685814029423
+end_time: 1685813970638
+entry_point_name: ''
+experiment_id: '348307723063353050'
+lifecycle_stage: deleted
+run_id: 0f9b9180442842688cb2389dd1f914b5
+run_name: suave-turtle-259
+run_uuid: 0f9b9180442842688cb2389dd1f914b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685813969849
+status: 4
+tags: []
+user_id: daeti

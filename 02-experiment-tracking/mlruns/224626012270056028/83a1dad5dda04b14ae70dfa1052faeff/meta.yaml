@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/83a1dad5dda04b14ae70dfa1052faeff/artifacts
+deleted_time: 1685814816665
+end_time: 1685814773980
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: 83a1dad5dda04b14ae70dfa1052faeff
+run_name: overjoyed-quail-909
+run_uuid: 83a1dad5dda04b14ae70dfa1052faeff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685814771973
+status: 3
+tags: []
+user_id: daeti

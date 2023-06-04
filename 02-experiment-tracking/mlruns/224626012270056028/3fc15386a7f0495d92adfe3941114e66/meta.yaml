@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/3fc15386a7f0495d92adfe3941114e66/artifacts
+end_time: 1685816735830
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: active
+run_id: 3fc15386a7f0495d92adfe3941114e66
+run_name: orderly-jay-786
+run_uuid: 3fc15386a7f0495d92adfe3941114e66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685816733777
+status: 3
+tags: []
+user_id: daeti

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/348307723063353050/05e9cbd77e0c45adb5a13170e84871de/artifacts
+deleted_time: 1685814029430
+end_time: 1685813770797
+entry_point_name: ''
+experiment_id: '348307723063353050'
+lifecycle_stage: deleted
+run_id: 05e9cbd77e0c45adb5a13170e84871de
+run_name: awesome-gnat-231
+run_uuid: 05e9cbd77e0c45adb5a13170e84871de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685813769878
+status: 4
+tags: []
+user_id: daeti

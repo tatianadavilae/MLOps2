@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/44d3324677b94e27a0697d0fcbee62e9/artifacts
+deleted_time: 1685816549009
+end_time: 1685816213264
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: 44d3324677b94e27a0697d0fcbee62e9
+run_name: bustling-fowl-258
+run_uuid: 44d3324677b94e27a0697d0fcbee62e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685816210562
+status: 3
+tags: []
+user_id: daeti

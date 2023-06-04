@@ -1,0 +1,16 @@
+artifact_uri: file:///home/daeti/MLOps/02-experiment-tracking/mlruns/0/31ae18e1cc8342f9a07c058111ab128c/artifacts
+deleted_time: 1685813422800
+end_time: 1685813092189
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 31ae18e1cc8342f9a07c058111ab128c
+run_name: likeable-skunk-31
+run_uuid: 31ae18e1cc8342f9a07c058111ab128c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685813083638
+status: 3
+tags: []
+user_id: daeti

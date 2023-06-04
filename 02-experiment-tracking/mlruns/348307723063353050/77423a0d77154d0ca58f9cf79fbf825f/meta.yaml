@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/348307723063353050/77423a0d77154d0ca58f9cf79fbf825f/artifacts
+end_time: 1685814318179
+entry_point_name: ''
+experiment_id: '348307723063353050'
+lifecycle_stage: active
+run_id: 77423a0d77154d0ca58f9cf79fbf825f
+run_name: omniscient-moose-925
+run_uuid: 77423a0d77154d0ca58f9cf79fbf825f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685814317417
+status: 3
+tags: []
+user_id: daeti

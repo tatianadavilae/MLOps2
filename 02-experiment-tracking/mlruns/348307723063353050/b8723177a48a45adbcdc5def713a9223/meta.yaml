@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/348307723063353050/b8723177a48a45adbcdc5def713a9223/artifacts
+deleted_time: 1685814029423
+end_time: 1685813879857
+entry_point_name: ''
+experiment_id: '348307723063353050'
+lifecycle_stage: deleted
+run_id: b8723177a48a45adbcdc5def713a9223
+run_name: puzzled-bee-12
+run_uuid: b8723177a48a45adbcdc5def713a9223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685813879091
+status: 4
+tags: []
+user_id: daeti

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/153e8f81f40d49fdbd22b39e713737b4/artifacts
+deleted_time: 1685814816647
+end_time: 1685814693809
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: 153e8f81f40d49fdbd22b39e713737b4
+run_name: handsome-trout-247
+run_uuid: 153e8f81f40d49fdbd22b39e713737b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685814691122
+status: 3
+tags: []
+user_id: daeti

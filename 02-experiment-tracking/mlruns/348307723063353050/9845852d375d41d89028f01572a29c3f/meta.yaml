@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/348307723063353050/9845852d375d41d89028f01572a29c3f/artifacts
+deleted_time: 1685814029427
+end_time: 1685813814652
+entry_point_name: ''
+experiment_id: '348307723063353050'
+lifecycle_stage: deleted
+run_id: 9845852d375d41d89028f01572a29c3f
+run_name: nervous-snake-33
+run_uuid: 9845852d375d41d89028f01572a29c3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685813813882
+status: 4
+tags: []
+user_id: daeti

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/a671b748c3ac4f4f9a89a78ea1c60404/artifacts
+deleted_time: 1685816549024
+end_time: 1685816215440
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: a671b748c3ac4f4f9a89a78ea1c60404
+run_name: unruly-crab-752
+run_uuid: a671b748c3ac4f4f9a89a78ea1c60404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685816213271
+status: 3
+tags: []
+user_id: daeti

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/18384e3067784875b5b42035c6595e19/artifacts
+deleted_time: 1685816549047
+end_time: 1685816219252
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: 18384e3067784875b5b42035c6595e19
+run_name: painted-skunk-396
+run_uuid: 18384e3067784875b5b42035c6595e19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685816217536
+status: 3
+tags: []
+user_id: daeti

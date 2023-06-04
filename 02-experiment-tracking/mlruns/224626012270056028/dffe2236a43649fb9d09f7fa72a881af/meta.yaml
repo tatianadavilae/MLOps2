@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/dffe2236a43649fb9d09f7fa72a881af/artifacts
+deleted_time: 1685814712792
+end_time: 1685814418382
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: dffe2236a43649fb9d09f7fa72a881af
+run_name: hilarious-cub-215
+run_uuid: dffe2236a43649fb9d09f7fa72a881af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685814416727
+status: 3
+tags: []
+user_id: daeti

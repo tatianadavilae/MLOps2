@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/7dd7699088f647e9a0b3368b0a1fccff/artifacts
+end_time: 1685816564999
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: active
+run_id: 7dd7699088f647e9a0b3368b0a1fccff
+run_name: fortunate-snail-293
+run_uuid: 7dd7699088f647e9a0b3368b0a1fccff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685816563237
+status: 3
+tags: []
+user_id: daeti

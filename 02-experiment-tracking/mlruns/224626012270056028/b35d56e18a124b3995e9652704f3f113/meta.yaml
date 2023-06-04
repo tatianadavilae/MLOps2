@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/b35d56e18a124b3995e9652704f3f113/artifacts
+deleted_time: 1685814712768
+end_time: 1685814410793
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: b35d56e18a124b3995e9652704f3f113
+run_name: classy-bass-15
+run_uuid: b35d56e18a124b3995e9652704f3f113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685814408053
+status: 3
+tags: []
+user_id: daeti

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/55a073ebb55046a4aee655e814fce770/artifacts
+end_time: 1685816731653
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: active
+run_id: 55a073ebb55046a4aee655e814fce770
+run_name: worried-snail-217
+run_uuid: 55a073ebb55046a4aee655e814fce770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685816728936
+status: 3
+tags: []
+user_id: daeti

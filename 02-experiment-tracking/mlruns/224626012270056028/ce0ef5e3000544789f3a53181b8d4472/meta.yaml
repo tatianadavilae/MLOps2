@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/ce0ef5e3000544789f3a53181b8d4472/artifacts
+deleted_time: 1685814712773
+end_time: 1685814455424
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: ce0ef5e3000544789f3a53181b8d4472
+run_name: spiffy-quail-536
+run_uuid: ce0ef5e3000544789f3a53181b8d4472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685814453295
+status: 3
+tags: []
+user_id: daeti

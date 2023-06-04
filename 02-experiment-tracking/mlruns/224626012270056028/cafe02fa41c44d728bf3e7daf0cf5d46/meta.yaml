@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/cafe02fa41c44d728bf3e7daf0cf5d46/artifacts
+deleted_time: 1685816549020
+end_time: 1685816243975
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: cafe02fa41c44d728bf3e7daf0cf5d46
+run_name: nebulous-deer-422
+run_uuid: cafe02fa41c44d728bf3e7daf0cf5d46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685816241781
+status: 3
+tags: []
+user_id: daeti

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/110108e4b129446893698f448f8e62c1/artifacts
+deleted_time: 1685814816662
+end_time: 1685814695985
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: 110108e4b129446893698f448f8e62c1
+run_name: monumental-wolf-571
+run_uuid: 110108e4b129446893698f448f8e62c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685814693815
+status: 3
+tags: []
+user_id: daeti

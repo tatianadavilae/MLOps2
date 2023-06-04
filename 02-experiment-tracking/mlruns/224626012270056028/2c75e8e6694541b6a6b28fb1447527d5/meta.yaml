@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/2c75e8e6694541b6a6b28fb1447527d5/artifacts
+deleted_time: 1685814712784
+end_time: 1685814457473
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: 2c75e8e6694541b6a6b28fb1447527d5
+run_name: shivering-dove-16
+run_uuid: 2c75e8e6694541b6a6b28fb1447527d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685814455432
+status: 3
+tags: []
+user_id: daeti

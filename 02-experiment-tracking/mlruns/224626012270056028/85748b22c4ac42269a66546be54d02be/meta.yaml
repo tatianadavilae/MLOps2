@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/85748b22c4ac42269a66546be54d02be/artifacts
+deleted_time: 1685814712792
+end_time: 1685814460889
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: 85748b22c4ac42269a66546be54d02be
+run_name: vaunted-foal-196
+run_uuid: 85748b22c4ac42269a66546be54d02be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685814459246
+status: 3
+tags: []
+user_id: daeti

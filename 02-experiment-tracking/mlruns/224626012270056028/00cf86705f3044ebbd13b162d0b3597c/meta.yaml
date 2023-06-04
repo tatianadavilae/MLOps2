@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/00cf86705f3044ebbd13b162d0b3597c/artifacts
+deleted_time: 1685814816638
+end_time: 1685814769816
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: 00cf86705f3044ebbd13b162d0b3597c
+run_name: merciful-roo-609
+run_uuid: 00cf86705f3044ebbd13b162d0b3597c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685814767094
+status: 3
+tags: []
+user_id: daeti

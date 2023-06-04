@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/37e785d439c44ed69c88987c48410f84/artifacts
+deleted_time: 1685814816672
+end_time: 1685814775757
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: 37e785d439c44ed69c88987c48410f84
+run_name: legendary-sow-371
+run_uuid: 37e785d439c44ed69c88987c48410f84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685814773988
+status: 3
+tags: []
+user_id: daeti

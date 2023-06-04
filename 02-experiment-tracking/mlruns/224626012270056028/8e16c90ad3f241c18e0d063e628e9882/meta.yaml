@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/8e16c90ad3f241c18e0d063e628e9882/artifacts
+deleted_time: 1685814816652
+end_time: 1685814771966
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: 8e16c90ad3f241c18e0d063e628e9882
+run_name: wise-mouse-45
+run_uuid: 8e16c90ad3f241c18e0d063e628e9882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685814769823
+status: 3
+tags: []
+user_id: daeti

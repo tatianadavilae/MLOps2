@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/094fc2db369448b5a770f5152bf57f55/artifacts
+deleted_time: 1685814816680
+end_time: 1685814701550
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: 094fc2db369448b5a770f5152bf57f55
+run_name: salty-crow-419
+run_uuid: 094fc2db369448b5a770f5152bf57f55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685814699803
+status: 3
+tags: []
+user_id: daeti

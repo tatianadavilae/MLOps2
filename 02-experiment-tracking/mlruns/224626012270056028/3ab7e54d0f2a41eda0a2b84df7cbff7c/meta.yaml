@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/224626012270056028/3ab7e54d0f2a41eda0a2b84df7cbff7c/artifacts
+deleted_time: 1685816549048
+end_time: 1685816084787
+entry_point_name: ''
+experiment_id: '224626012270056028'
+lifecycle_stage: deleted
+run_id: 3ab7e54d0f2a41eda0a2b84df7cbff7c
+run_name: receptive-stork-837
+run_uuid: 3ab7e54d0f2a41eda0a2b84df7cbff7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685816083065
+status: 3
+tags: []
+user_id: daeti

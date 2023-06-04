@@ -1,0 +1,16 @@
+artifact_uri: file:///home/daeti/MLOps/02-experiment-tracking/mlruns/0/4d6ffac0c5e541329349c26bba011004/artifacts
+deleted_time: 1685813422799
+end_time: 1685813356923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4d6ffac0c5e541329349c26bba011004
+run_name: tasteful-quail-834
+run_uuid: 4d6ffac0c5e541329349c26bba011004
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685813348407
+status: 3
+tags: []
+user_id: daeti

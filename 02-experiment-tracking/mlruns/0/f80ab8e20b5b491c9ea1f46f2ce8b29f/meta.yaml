@@ -1,0 +1,16 @@
+artifact_uri: file:///home/daeti/MLOps/02-experiment-tracking/mlruns/0/f80ab8e20b5b491c9ea1f46f2ce8b29f/artifacts
+deleted_time: 1685813422800
+end_time: 1685813053705
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f80ab8e20b5b491c9ea1f46f2ce8b29f
+run_name: efficient-pug-477
+run_uuid: f80ab8e20b5b491c9ea1f46f2ce8b29f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685813045024
+status: 3
+tags: []
+user_id: daeti

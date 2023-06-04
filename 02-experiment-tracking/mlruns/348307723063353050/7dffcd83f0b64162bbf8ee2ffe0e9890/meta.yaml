@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/348307723063353050/7dffcd83f0b64162bbf8ee2ffe0e9890/artifacts
+deleted_time: 1685814029420
+end_time: 1685814010444
+entry_point_name: ''
+experiment_id: '348307723063353050'
+lifecycle_stage: deleted
+run_id: 7dffcd83f0b64162bbf8ee2ffe0e9890
+run_name: masked-hound-254
+run_uuid: 7dffcd83f0b64162bbf8ee2ffe0e9890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685814009553
+status: 4
+tags: []
+user_id: daeti

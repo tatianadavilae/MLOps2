@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/348307723063353050/bd339932d0294eb0809822d410a0e90d/artifacts
+end_time: 1685814319523
+entry_point_name: ''
+experiment_id: '348307723063353050'
+lifecycle_stage: active
+run_id: bd339932d0294eb0809822d410a0e90d
+run_name: rumbling-shad-327
+run_uuid: bd339932d0294eb0809822d410a0e90d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685814319172
+status: 3
+tags: []
+user_id: daeti
